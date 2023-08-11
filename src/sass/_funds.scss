@@ -78,10 +78,8 @@
 
 .funds-img {
   filter: brightness(0) invert(1);
-  height: 32px;
-  max-width: 100%;
-  // max-height: 100%;
-  display: block;
+  height: 100%;
+  object-fit: contain;
 }
 
 .funds-btn-bottom,

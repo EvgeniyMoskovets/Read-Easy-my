@@ -16,7 +16,7 @@
   },
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
-  "sass support by": "dolphin-vr <https://github.com/dolphin-vr>",
+  "sass support by": "<https://github.com/EvgeniyMoskovets>",
   "dependencies": {
     "axios": "^1.4.0",
     "firebase": "^10.1.0",
